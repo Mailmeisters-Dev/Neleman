@@ -1,0 +1,10 @@
+.emotion--row.row--1 .bg--image { background-color: #FBE17E; }
+.emotion--row.row--1 .bg--image .cover--canvas { opacity: 0; }
+.emotion--row.row--1 .dig-pub--text { height: 100% ;}
+.emotion--row.row--1 .dig-pub--text > p { position: relative; height: 100%; }
+.emotion--row.row--1 .dig-pub--text .squeezely_dynamic_products { position: absolute; z-index: 9; bottom: 0; right: 0; }
+.emotion--row.row--1 .dig-pub--text .sqzly-personalization > a { margin-bottom: 0; }
+.emotion--row.row--1 .dig-pub--text .sqzly-personalization a .sqzly-image { position: relative; }
+.emotion--row.row--1 .dig-pub--text .sqzly-personalization a .sqzly-product img { position: relative; max-width: 150%; width: 150%; height: auto; }
+.emotion--row.row--1 .dig-pub--text .sqzly-personalization a:nth-child(2) .sqzly-product img { left: -25%; }
+.emotion--row.row--1 .dig-pub--text .sqzly-personalization a:nth-child(3) .sqzly-product img { left: -50%; }
